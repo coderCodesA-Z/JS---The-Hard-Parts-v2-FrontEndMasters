@@ -8,6 +8,8 @@
 
 [4. Asynchronous JavaScript 🚀](https://drive.google.com/file/d/1nzURs6ii4Xmgj1HSrI0F2ez7hbIbSoyF/view?usp=share_link)
 
+[5. Promises 🚀](https://drive.google.com/file/d/1Ipw95Y5L61PoNp6JRSWdOCJ3FHgj-QYU/view?usp=share_link)
+
 ## Link to the assignments
 [1. No Assignments](#)
 
@@ -17,3 +19,4 @@
 
 [4. Asynchronous Javascript 🚀](http://csbin.io/async)
 
+[5. Promises 🚀](http://csbin.io/promises)
