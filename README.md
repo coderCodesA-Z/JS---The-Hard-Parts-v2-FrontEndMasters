@@ -6,9 +6,14 @@
 
 [3. Scope Chain. Lexical Environment and Closure 🚀](https://drive.google.com/file/d/1A8ifPMc14B7nTgNGpCNWvgRd573rCC6J/view?usp=share_link)
 
+[4. Asynchronous JavaScript 🚀](https://drive.google.com/file/d/1nzURs6ii4Xmgj1HSrI0F2ez7hbIbSoyF/view?usp=share_link)
+
 ## Link to the assignments
 [1. No Assignments](#)
 
 [2. Functions and Callbacks 🚀](http://csbin.io/callbacks)
 
 [3. Closure 🚀](http://csbin.io/closures)
+
+[4. Asynchronous Javascript 🚀](http://csbin.io/async)
+
