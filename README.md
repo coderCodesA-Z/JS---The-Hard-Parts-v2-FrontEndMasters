@@ -7,3 +7,5 @@
 [1. No Assignments](#)
 
 [2. Functions and Callbacks 🚀](http://csbin.io/callbacks)
+
+[3. Closure 🚀](http://csbin.io/closures)
