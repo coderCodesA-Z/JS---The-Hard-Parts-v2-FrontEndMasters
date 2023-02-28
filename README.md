@@ -10,6 +10,8 @@
 
 [5. Promises 🚀](https://drive.google.com/file/d/1Ipw95Y5L61PoNp6JRSWdOCJ3FHgj-QYU/view?usp=share_link)
 
+[6. OOP 🚀](https://drive.google.com/file/d/18ZXnhkyucJ1juR-EY84o3WL3l8bBl9oc/view?usp=share_link)
+
 ## Link to the assignments
 [1. No Assignments](#)
 
