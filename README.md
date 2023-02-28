@@ -22,3 +22,5 @@
 [4. Asynchronous Javascript 🚀](http://csbin.io/async)
 
 [5. Promises 🚀](http://csbin.io/promises)
+
+[6. OOP 🚀](http://csbin.io/oop)
