@@ -1,4 +1,7 @@
 # JS---The-Hard-Parts-v2-FrontEndMasters
+
+[To understand Tasks, microtasks, queues and schedules 🚀](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/#try-it)
+
 ## Link to Notes
 [1. Thread of Execution, Execution Context, Call Stack and Hoisting 🚀](https://drive.google.com/file/d/1aw3pAlNbeHmBATYC25V9fcdaC5ml7jhI/view?usp=share_link)
 
